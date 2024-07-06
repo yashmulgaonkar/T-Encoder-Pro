@@ -112,23 +112,11 @@
 
 4. Open menu bar "[File](image/6.png)" -> "[Preferences](image/6.png)" ,Find "[Sketchbook location](image/7.png)"  here,copy and paste all library files and folders from the "libraries" folder in the project directory into the "libraries" folder in this directory.
 
-5. Select the correct settings in the Tools menu, as shown in the table below.
+5. Select the correct settings in the Tools menu, as shown in the image below.
 
-| Setting                               | Value                                 |
-| :-------------------------------: | :-------------------------------: |
-| Board                                | ESP32S3 Dev Module |
-| Upload Speed                     | 921600                               |
-| USB Mode                           | Hardware CDC and JTAG     |
-| USB CDC On Boot                | Enabled                             |
-| USB Firmware MSC On Boot | Disabled                             |
-| USB DFU On Boot                | Disabled                             |
-| CPU Frequency                   | 240MHz (WiFi)                    |
-| Flash Mode                         | QIO 80MHz                         |
-| Flash Size                           | 16MB (128Mb)                     |
-| Core Debug Level                | None                                 |
-| PSRAM                                | OPI PSRAM                         |
-| Arduino Runs On                  | Core 1                               |
-| Events Run On                     | Core 1                               |
+<p align="center" width="100%">
+    <img src="image/TEncoderPro_ArduinoSettings.jpg" alt="example">
+</p>
 
 6. Select the correct port.
 
